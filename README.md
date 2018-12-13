@@ -30,12 +30,12 @@
     "Paths": [
     	"D:\\DNF",
     	"E:\\DNF"
-	],
-	"BlockLive": false,
-	"AutoStart": true,
-	"Autokeys": [
-    	["AX", "Ctrl+NumPad1"]
-	]
+    ],
+    "BlockLive": false,
+    "AutoStart": true,
+    "Autokeys": [
+        ["AX", "Ctrl+NumPad1"]
+    ]
 ]
 ```
 
